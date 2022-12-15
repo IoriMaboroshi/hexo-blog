@@ -1,0 +1,9 @@
+search:
+  layout: search
+  filter: auto # auto or '/path'
+  placeholder: 搜搜看嘛~ # 搜索框处显示的文字
+
+welcome: 
+  layout: markdown
+  title: 欢迎
+  content: 欢迎伊緻幻的实验性站点
